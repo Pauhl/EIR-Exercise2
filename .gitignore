@@ -1,3 +1,5 @@
 maps/
 data/full
 tarball**
+hashes.db
+hashes.db**
